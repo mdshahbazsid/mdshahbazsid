@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Shahbaz</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahbazsid&show_icons=true&locale=en&layout=compact" alt="mdshahbazsid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshahbazsid&show_icons=true&locale=en" alt="mdshahbazsid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahbazsid&" alt="mdshahbazsid" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahbazsid&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahbazsid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahbazsid" alt="mdshahbazsid" /></a> </p>
-
 - 🔭 I’m currently working on **Magento 2 Extensions and Integrations**
 
 - 🌱 I’m currently learning **Magneto 2, Php, Java, Javascript**
